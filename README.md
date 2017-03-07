@@ -1,0 +1,2 @@
+# myBasicGit
+my git project
